@@ -31,10 +31,10 @@ Tuutori,ho,functionary,2025-03-04,2025-12-06,
 Toimittaja-taittaja,ho,functionary,2025-01-01,2025-12-31,"Osakunnan lehden, Hälläpyörän, toimittaja sekä taittaja."
 Päätoimittaja,ho,functionary,2026-01-01,2026-12-31,"Hälläpyörän puolikas päätoimittaja."
 Kesäisäntä,ho,functionary,2026-08-01,2026-08-31,
-Hallitus,mafia,group,2022-08-01,2023-07-31,
-Hallitus,mafia,group,2024-08-01,2025-07-31,"VPJ"
+Hallitus,mafia,functionary,2022-08-01,2023-07-31,
+Hallitus,mafia,functionary,2024-08-01,2025-07-31,"VPJ"
 Puheenjohtaja,iw,functionary,2025-06-23,2026-06-30,"MAYDAY! katso daymay.fi"
-Hallitus,iw,group,2026-07-01,2027-06-30,
+Hallitus,iw,functionary,2026-07-01,2027-06-30,
 Apuohjaaja,tspeksi,functionary,2022-10-01,2023-05-01,"Ohjaajan oikea käsi ja vastuussa produktion 'taiteellisesta' puolesta näytöskaudella"
 Sanoittaja,tspeksi,functionary,2023-10-01,2024-05-01,
 Sanoittaja,tspeksi,functionary,2024-10-01,2025-05-01,
@@ -42,7 +42,7 @@ Jotain pientä,tspeksi,group,2025-10-01,2026-05-01,"Wappulehti.txt.2026&25&24 tu
 Kääntäjä,fspeksi,functionary,2023-06-01,2023-10-31,
 Graafikko,fspeksi,functionary,2025-06-01,2025-10-31,
 Studax,as,functionary,2025-06-04,2026-02-22,"Academia Studentica - Polyteekkarifuksikasvatus"
-Licensus,as,functionary,2026-02-23,2026-12-31,"'Perustettiin' kapinallinen paikallishaara."
+Licensus,as,functionary,2026-02-23,2028-12-31,"'Perustettiin' kapinallinen paikallishaara."
 Kultainen ansiomerkki,inkubio,decoration,2026-03-07,,
 superISO,inkubio,decoration,2022-05-20,,
 Toimaripalkinto,inkubio,decoration,2022-05-23,,"Kansainvälisyystoimukunta"
